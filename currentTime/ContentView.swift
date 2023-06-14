@@ -4,6 +4,7 @@
 //
 //  Created by Даниил Смирнов on 13.06.2023.
 //
+// До изменений с алертом
 
 import SwiftUI
 import Foundation
